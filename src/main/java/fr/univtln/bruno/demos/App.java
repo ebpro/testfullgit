@@ -42,7 +42,7 @@ public class App {
      */
     public static void main(String[] args) {
         log.info("Hello World! " + Arrays.toString(args));
-        System.out.println("OK");
+        System.out.println("bad !");
     }
 }
 
